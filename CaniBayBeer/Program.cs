@@ -10,7 +10,8 @@ namespace CanIBuyBeer
     {
         static void Main(string[] args)
         {
-            //bool
+            Console.WriteLine(" GIT");
+
             Console.WriteLine("Hur gammal är du:");
             int age = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("system eller krongen");
